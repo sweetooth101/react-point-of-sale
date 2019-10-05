@@ -1,6 +1,6 @@
 [build]
   base    = "./pos-ui"
-  publish = "./pos-ui/build"
+  publish = "./build"
   command = "yarn run build"
 
 [[redirects]]
