@@ -4,7 +4,6 @@
   "description": "A simple point of sale application built using react &amp; node.js.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cd pos-api && npm install",
     "start": "cd pos-api && node index.js"
   },
   "repository": {
